@@ -65,7 +65,8 @@
             <title>${window.document.title}</title>
             <style>
               @page {
-  size: 2in 4in;
+  size: 40mm 80mm;
+  margin: 0cm;
 }
 
             </style>
