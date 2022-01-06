@@ -63,6 +63,12 @@
         <html>
           <head>
             <title>${window.document.title}</title>
+            <style>
+              @page {
+  size: 2in 4in;
+}
+
+            </style>
           </head>
           <body>
             ${element.innerHTML}
